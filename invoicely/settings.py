@@ -57,6 +57,8 @@ INSTALLED_APPS = [
     'djoser',
 
     'apps.client',
+    'apps.invoice',
+    'apps.team',
 ]
 
 MIDDLEWARE = [
